@@ -9,11 +9,13 @@
     height: 100px;
     background-color: yellow;
     position: relative;
-    bottom: 116px; left: 200px;
+    bottom: 116px; left: 210px;
   }
   
   .third-box-container {
     width: 200px;
     height: 100px;
     background-color: green;
+    position: relative;
+    bottom: 242px; left: 420px;
   }
