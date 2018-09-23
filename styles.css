@@ -3,7 +3,7 @@
     height: 100px;
     background-color: red;
     border-color: green;
-    border-width: 2px;
+    border-width: 12px;
     text-transform: capitalize;
     text-align: center;
   }
@@ -15,7 +15,7 @@
     position: relative;
     bottom: 116px; left: 210px;
     border-color: red;
-    border-width: 2px;
+    border-width: 12px;
     text-transform: capitalize;
     text-align: center;
   }
@@ -27,7 +27,7 @@
     position: relative;
     bottom: 232px; left: 420px;
     border-color: yellow;
-    border-width: 2px;
+    border-width: 12px;
     text-transform: capitalize;
     text-align: center;
   }
