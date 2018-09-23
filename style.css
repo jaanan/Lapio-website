@@ -1,7 +1,10 @@
-p { background-color: red; }
+p { color: brown; }
 .paaotsikko {
   color: blue;
 }
 ul {
   color: pink;
+}
+.ruskea otsikko {
+  color: brown;
 }
