@@ -2,10 +2,9 @@
     width: 200px;
     height: 100px;
     background-color: red;
+    border-style: solid;
     border-color: green;
     border-width: 12px;
-    text-transform: capitalize;
-    text-align: justify;
   }
   
   .second-box-container {
@@ -13,11 +12,10 @@
     height: 100px;
     background-color: yellow;
     position: relative;
-    bottom: 116px; left: 210px;
+    bottom: 124px; left: 230px;
+    border-style: solid;
     border-color: red;
     border-width: 12px;
-    text-transform: capitalize;
-    text-align: justify;
   }
   
   .third-box-container {
@@ -25,13 +23,14 @@
     height: 100px;
     background-color: green;
     position: relative;
-    bottom: 232px; left: 420px;
+    bottom: 248px; left: 460px;
+    border-style: solid;
     border-color: yellow;
     border-width: 12px;
-    text-transform: capitalize;
-    text-align: justify;
   }
 
   p {
     color: blue;
+    text-transform: uppercase;
+    text-align: center;
   }
