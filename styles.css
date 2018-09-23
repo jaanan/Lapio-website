@@ -2,6 +2,10 @@
     width: 200px;
     height: 100px;
     background-color: red;
+    border-color: green;
+    border-width: 2px;
+    text-transform: capitalize;
+    text-align: center;
   }
   
   .second-box-container {
@@ -10,6 +14,10 @@
     background-color: yellow;
     position: relative;
     bottom: 116px; left: 210px;
+    border-color: red;
+    border-width: 2px;
+    text-transform: capitalize;
+    text-align: center;
   }
   
   .third-box-container {
@@ -18,4 +26,12 @@
     background-color: green;
     position: relative;
     bottom: 232px; left: 420px;
+    border-color: yellow;
+    border-width: 2px;
+    text-transform: capitalize;
+    text-align: center;
+  }
+
+  p {
+    color: blue;
   }
