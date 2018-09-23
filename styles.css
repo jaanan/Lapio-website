@@ -9,7 +9,7 @@
     height: 100px;
     background-color: yellow;
     position: relative;
-    top: 65px; left: 65px;
+    bottom: 115px; left: 100px;
   }
   
   .third-box-container {
