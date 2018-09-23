@@ -1,13 +1,33 @@
-p { color: brown; }
+p { color: gray; 
+
+}
 .paaotsikko {
-  color: blue;
+  color: brown;
 }
 ul {
-  color: pink;
+  color: brown;
 }
 .ruskeaotsikko {
   color: brown;
 }
 #punainen-kohta {
-  color: red;
+  color: brown;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+}
+
+.second-box-container {
+  position: relative;
+  bottom: 350px; left: 430px;
+}
+
+.third-box-container {
+  position: relative;
+  bottom: 350px;
 }
